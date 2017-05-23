@@ -3,7 +3,7 @@ from time import sleep
 import aTanque
 import aEscenario
 
-
+#ESTE ES MI CODIGO
 class cCompetir(threading.Thread):
     
     def __init__(self, pEscenario, pTanque, pObjetivo, destruido):

@@ -4,6 +4,7 @@ import aTanque
 import aEscenario
 
 #ESTE ES MI CODIGO
+#ALTAMIRANO PALOMINO YUBER ES UN REY.
 class cCompetir(threading.Thread):
     
     def __init__(self, pEscenario, pTanque, pObjetivo, destruido):
